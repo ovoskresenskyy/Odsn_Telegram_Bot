@@ -36,5 +36,5 @@ build/
 /.mvn/wrapper/maven-wrapper.properties
 /.mvn/wrapper/maven-wrapper.jar
 /application.yml
-/application.properties
+/src/main/resources/application.properties
 /src/main/resources/application.properties
